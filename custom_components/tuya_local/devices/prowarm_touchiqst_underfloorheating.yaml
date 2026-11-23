@@ -392,6 +392,8 @@ entities:
         mapping:
           - dps_val: air_floor
             value: true
+          - dps_val: floor
+            value: true
           - dps_val: remote_air_floor
             value: true
           - value: false
